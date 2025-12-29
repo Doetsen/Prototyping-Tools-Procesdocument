@@ -1,12 +1,4 @@
-/*
 
-Tooplate 2143 Inner Peace
-
-https://www.tooplate.com/view/2143-inner-peace
-
-Free HTML CSS Template
-
-*/
 
 // JavaScript Document
 
